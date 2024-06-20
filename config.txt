@@ -1,0 +1,2 @@
+#executar um arquivo
+python src/extract_load.py
